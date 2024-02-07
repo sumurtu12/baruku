@@ -4,4 +4,4 @@
 	User-agent: *
 	Allow: /
 
-	Sitemap: http://ftp.nicoleleffel.com/store/product/idnslot/sitemap.xml
+	Sitemap: http://storelist.lukasbombach.de/store/product/idnslot/sitemap.xml
