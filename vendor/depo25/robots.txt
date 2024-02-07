@@ -4,4 +4,4 @@ Disallow: /nogooglebot/
 User-agent: *
 Allow: /
 
-Sitemap: http://ftp.nicoleleffel.com/vendor/depo25/sitemap.xml
+Sitemap: http://storelist.lukasbombach.de/vendor/depo25/sitemap.xml
